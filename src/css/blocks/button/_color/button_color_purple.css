@@ -1,0 +1,4 @@
+.button_color_purple {
+  background-color: var(--main-color-accent);
+  color: var(--main-color-white);
+}

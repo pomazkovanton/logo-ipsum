@@ -1,0 +1,5 @@
+.hero__btn-wrapper {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+}

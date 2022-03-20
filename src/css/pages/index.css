@@ -3,6 +3,7 @@
 @import url("../vendor/variables.css");
 
 @import url("../blocks/container/container.css");
+@import url("../blocks/container/__hero/container__hero.css");
 
 @import url("../blocks/header/header.css");
 
@@ -15,3 +16,11 @@
 @import url("../blocks/button/button.css");
 @import url("../blocks/button/_size/button_size_small.css");
 @import url("../blocks/button/_color/button_color_orange.css");
+@import url("../blocks/button/_color/button_color_purple.css");
+
+@import url("../blocks/hero/hero.css");
+@import url("../blocks/hero/__title/hero__title.css");
+@import url("../blocks/hero/__text/hero__text.css");
+@import url("../blocks/hero/__btn-wrapper/hero__btn-wrapper.css");
+@import url("../blocks/hero/__bg-img/hero__bg-img.css");
+@import url("../blocks/hero/__arrow/hero__arrow.css");
