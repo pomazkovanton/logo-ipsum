@@ -1,0 +1,5 @@
+.main-nav__link_active {
+  padding-bottom: 10px;
+  border-bottom: solid 2px var(--main-color-accent);
+  color: var(--main-color-dark);
+}

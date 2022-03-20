@@ -1,0 +1,14 @@
+.button {
+  display: block;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: var(--main-font-title);
+  font-size: 17px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.button:hover {
+  opacity: 0.5;
+}

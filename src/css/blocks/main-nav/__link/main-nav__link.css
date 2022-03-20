@@ -1,0 +1,12 @@
+.main-nav__link {
+  font-family: var(--main-font-title);
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 15px;
+  color: var(--main-color-gray);
+  text-decoration: none;
+}
+
+.main-nav__link:hover {
+  color: var(--main-color-dark);
+}

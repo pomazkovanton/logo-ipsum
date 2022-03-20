@@ -1,3 +1,17 @@
 @import url("../vendor/normalize.css");
 @import url("../vendor/fonts.css");
 @import url("../vendor/variables.css");
+
+@import url("../blocks/container/container.css");
+
+@import url("../blocks/header/header.css");
+
+@import url("../blocks/main-nav/main-nav.css");
+@import url("../blocks/main-nav/__list/main-nav__list.css");
+@import url("../blocks/main-nav/__item/main-nav__item.css");
+@import url("../blocks/main-nav/__link/main-nav__link.css");
+@import url("../blocks/main-nav/__link/_active/main-nav__link_active.css");
+
+@import url("../blocks/button/button.css");
+@import url("../blocks/button/_size/button_size_small.css");
+@import url("../blocks/button/_color/button_color_orange.css");
