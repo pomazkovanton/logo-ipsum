@@ -4,6 +4,7 @@
 
 @import url("../blocks/container/container.css");
 @import url("../blocks/container/__hero/container__hero.css");
+@import url("../blocks/container/__partners/container__partners.css");
 
 @import url("../blocks/header/header.css");
 
@@ -24,3 +25,7 @@
 @import url("../blocks/hero/__btn-wrapper/hero__btn-wrapper.css");
 @import url("../blocks/hero/__bg-img/hero__bg-img.css");
 @import url("../blocks/hero/__arrow/hero__arrow.css");
+
+@import url("../blocks/partners/partners.css");
+@import url("../blocks/partners/__list/partners__list.css");
+@import url("../blocks/partners/__logo/partners__logo.css");

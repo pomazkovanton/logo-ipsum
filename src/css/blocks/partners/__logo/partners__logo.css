@@ -1,0 +1,7 @@
+.partners__logo {
+  opacity: 0.5;
+}
+
+.partners__logo:hover {
+  opacity: 1;
+}
