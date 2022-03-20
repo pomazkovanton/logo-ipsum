@@ -1,0 +1,11 @@
+@font-face {
+  font-weight: 700;
+  font-family: 'DMSans';
+  src: url(../../accets/fonts/DMSans-Bold.woff2) format('woff2'), url(../../accets/fonts/DMSans-Bold.woff) format('woff');
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: 'Mulish';
+  src: url(../../accets/fonts/Mulish-Regular.woff2) format('woff2'), url(../../accets/fonts/Mulish-Regular.woff) format('woff');
+}
