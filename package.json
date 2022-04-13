@@ -5,19 +5,12 @@
   "browserslist": "> 0.5%, last 2 versions, IE 11, not dead",
   "scripts": {
     "stylelint": "stylelint ./src/css/*.css --color",
-    "stylelint:fix": "stylelint ./src/css/*.css --fix",
-    "dev": "parcel ./src/**.html",
-    "build": "parcel build ./src/**.html"
+    "stylelint:fix": "stylelint ./src/css/*.css --fix"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^10.4.4",
-    "parcel": "^2.3.2",
-    "postcss": "^8.4.12",
-    "postcss-cli": "^9.1.0",
-    "postcss-import": "^14.0.2",
     "prettier": "^2.6.0",
     "stylelint": "^14.6.0",
     "stylelint-color-format": "^1.1.0",
