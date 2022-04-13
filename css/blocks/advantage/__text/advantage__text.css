@@ -1,0 +1,10 @@
+.advantage__text {
+  margin-top: 20px;
+  margin-bottom: 0;
+  color: var(--main-color-gray);
+  font-family: var(--main-font-text);
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+  line-height: 1.5;
+}

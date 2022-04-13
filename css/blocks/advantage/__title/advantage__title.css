@@ -1,0 +1,10 @@
+.advantage__title {
+  margin-top: 5px;
+  margin-bottom: 0;
+  color: var(--main-color-dark);
+  font-family: var(--main-font-title);
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.75px;
+  line-height: 1.5;
+}
