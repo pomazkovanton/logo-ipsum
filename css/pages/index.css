@@ -33,3 +33,8 @@
 @import url('../blocks/partners/partners.css');
 @import url('../blocks/partners/__list/partners__list.css');
 @import url('../blocks/partners/__logo/partners__logo.css');
+
+@import url('../blocks/subscription/subscription.css');
+@import url('../blocks/subscription/__img/subscription__img.css');
+@import url('../blocks/subscription/__text/subscription__text.css');
+@import url('../blocks/subscription/__link/subscription__link.css');
