@@ -38,3 +38,8 @@
 @import url('../blocks/subscription/__img/subscription__img.css');
 @import url('../blocks/subscription/__text/subscription__text.css');
 @import url('../blocks/subscription/__link/subscription__link.css');
+
+@import url('../blocks/metrics/metrics.css');
+@import url('../blocks/metrics/__text/metrics__text.css');
+@import url('../blocks/metrics/__link/metrics__link.css');
+@import url('../blocks/metrics/__img/metrics__img.css');
