@@ -1,0 +1,10 @@
+.cards__item_popular {
+  padding: 50px 35px 45px;
+  background-color: var(--second-color-accent);
+}
+
+.cards__item_popular .cards__title,
+.cards__item_popular .cards__price,
+.cards__item_popular .cards__services-item {
+  color: var(--main-color-white);
+}

@@ -1,0 +1,11 @@
+.cards__services-item {
+  color: var(--main-color-gray);
+  font-family: var(--main-font-text);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.cards__services-item:not(:first-child) {
+  margin-top: 35px;
+}

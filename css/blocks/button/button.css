@@ -1,11 +1,13 @@
 .button {
   display: block;
+  padding: 19px;
   border: none;
   border-radius: 10px;
   cursor: pointer;
   font-family: var(--main-font-title);
   font-size: 17px;
   font-weight: 700;
+  text-align: center;
   text-decoration: none;
 }
 

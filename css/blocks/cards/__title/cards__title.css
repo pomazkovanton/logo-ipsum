@@ -1,0 +1,9 @@
+.cards__title {
+  margin: 0;
+  color: var(--main-color-gray);
+  font-family: var(--main-font-text);
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.56px;
+  line-height: 1.55;
+}

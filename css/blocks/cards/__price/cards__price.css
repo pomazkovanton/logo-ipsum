@@ -1,0 +1,10 @@
+.cards__price {
+  display: block;
+  margin-top: 20px;
+  color: var(--main-color-dark);
+  font-family: var(--main-font-title);
+  font-size: 60px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  line-height: 1;
+}

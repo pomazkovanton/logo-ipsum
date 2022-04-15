@@ -1,0 +1,4 @@
+.button_color_white {
+  background-color: var(--main-color-white);
+  color: var(--main-color-accent);
+}

@@ -1,0 +1,8 @@
+.switch__btn_active {
+  background-color: var(--main-color-accent);
+  color: var(--main-color-white);
+}
+
+.switch__btn_active:hover {
+  background-color: var(--main-color-accent);
+}

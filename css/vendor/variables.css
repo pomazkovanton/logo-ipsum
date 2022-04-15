@@ -4,8 +4,8 @@
   --main-color-gray: rgb(105 104 113);
   --main-color-accent: rgb(84 84 212);
   --second-color-accent: rgb(255 113 67);
-  --main-color-card: rgb(248 248 248);
+  --main-color-card: rgb(247 247 251);
   --second-color-card: rgb(159 57 25);
-  --main-font-title: "DMSans", arial, sans-serif;
-  --main-font-text: "Mulish", arial, sans-serif;
+  --main-font-title: 'DMSans', arial, sans-serif;
+  --main-font-text: 'Mulish', arial, sans-serif;
 }

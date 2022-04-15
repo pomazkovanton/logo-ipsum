@@ -1,0 +1,4 @@
+.button_color_brown {
+  background-color: var(--second-color-card);
+  color: var(--main-color-white);
+}
