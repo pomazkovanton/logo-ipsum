@@ -115,8 +115,8 @@
       <div class="price__wrapper">
         <h2 class="title">Get the right plan for future product.</h2>
         <div class="switch">
-          <button class="switch__btn switch__btn_position_left switch__btn_active" type="button">Yearly</button>
-          <button class="switch__btn switch__btn_position_right" type="button">Monthly</button>
+          <button class="switch__btn switch__btn_position_left" type="button">Yearly</button>
+          <button class="switch__btn switch__btn_position_right switch__btn_active" type="button">Monthly</button>
         </div>
       </div>
       <ul class="cards">
@@ -132,7 +132,10 @@
         </li>
         <li class="cards__item cards__item_popular">
           <h3 class="cards__title">Premium</h3>
-          <b class="cards__price">$29<span class="cards__price-period">/month</span></b>
+          <b class="cards__price">
+            <span class="cards__price_type_premium">$29</span>
+            <span class="cards__price-period">/month</span>
+          </b>
           <ul class="cards__services">
             <li class="cards__services-item">10 Website</li>
             <li class="cards__services-item">15 GB Hosting</li>
@@ -142,7 +145,10 @@
         </li>
         <li class="cards__item">
           <h3 class="cards__title">Enterprise</h3>
-          <b class="cards__price">$49<span class="cards__price-period">/month</span></b>
+          <b class="cards__price">
+            <span class="cards__price_type_enterprise">$49</span>
+            <span class="cards__price-period">/month</span>
+          </b>
           <ul class="cards__services">
             <li class="cards__services-item">Unlimited Website</li>
             <li class="cards__services-item">50 GB Hosting</li>
@@ -152,5 +158,6 @@
         </li>
       </ul>
     </section>
+    <script src="./main.js"></script>
   </body>
 </html>
