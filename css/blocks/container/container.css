@@ -1,4 +1,7 @@
 .container {
+  display: grid;
   max-width: 1070px;
+  padding-bottom: 150px;
   margin: auto;
+  grid-row-gap: 150px;
 }
